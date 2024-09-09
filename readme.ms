@@ -1,1 +1,0 @@
-Welcome to **Image Scraper**! This project allows you to search and download images from the web using the Bing Image Search API. You can specify search queries and the number of images you want to download, and the app will handle fetching and downloading them for you! 🎉
